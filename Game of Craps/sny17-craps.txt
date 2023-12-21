@@ -1,0 +1,55 @@
+Assignment name: Basic GUI - The game of Craps
+
+Name: Sopheanith Ny
+UWNetID: sny17
+
+Assignment Overview:
+In this Craps GUI project, the most that I learn and understand is designing the front-end
+by using gui java and adding some cool things in the project, for example, like image, gif,
+letting the button work, and else. The most important part about this project is we getting to
+learn how to design front-end using gui, and we have a chance to build a project from scratch this time.
+However, after I get my project done, I think this project is hard, and it takes a lot of time to
+understand and to finish the whole project. But for these gui projects, I did lots of research,
+and I do use lots of resources to help me throughout the project. The most fun part about this project
+I get to play around the gui, especially where we're designing the dice icon and the button. But I found
+the hardest part of the project is where we roll the dice, and we have to display the image and add sound.
+Overall, this project is seem hard to me, but I'm having so much fun of learning new things and getting experience
+from it. Also, I was thinking this is a really good project that we could put in our resume.
+
+Technical Impression:
+My technical impression about the Craps game project is that I do watch lots of YouTube videos
+on this project. The most part that I catch up and feel comfortable of using gui is where
+I made the welcome window for this project. I know the code looks kinda messy and unorganized,
+which the window class is where I feel I understand how the gui works. In this project, the most
+part that I feel frustrated about is setting up the Label on the frame and organized into location 5
+such as left,center, top, bottom, and right. The way I solve this part is I made 5 different methods
+and one main gui setup method to set up all the parts to different locations that where they're belonging.
+Also, I do see myself having in trouble on converting from texts to integer, which I have looked at the old
+project and tried to get an idea of how the method works. By the way the part that sounds challenging to me
+is that adding sound for roll dice, win and lose is where I don't know how to do it, and YouTube does not
+really help me at all. Which I'm going to skip that part of the project for the extra credit. However, for the
+model class I didn't write the betting in the model class. I did everything's all at once class in the gui class,
+so it make me easier to just write the method in the listener method.Overall, my technical impression about this
+project is not that much because I did use lots of resources to help me through the project and the errors won't
+take me that long to figure out to solve it.
+
+
+Unresolved problems in my submission:
+I think there is no part that unresolved on the project except the sounds for the extra credit. Also,
+I have trying to debug the code, especially the converting part that I feel confused about, but it seems
+working fine to me after I run and test the code. For the shortcut using the keyboard key I did use ALT instead
+of CTRL because I control button on mac didn't which I did used command instead on mac but for window it will work
+with ALT. Also, to get the shortcut work you have to click on the menu button and type the keyword. ** However, I just go
+over the rubric which there is test class that I need to test, which this is the part where I didn't do it because
+I think he didn't tell us to do the JUnit for this project and I think I don't have enough time to do it. ** Overall, that
+is what I think that I have it for an unresolved problem in the project.
+
+
+Citations and Collaborations:
+I would like to give credit to YouTube (Bro Code), and stackoverflow.
+
+Questions:
+N/A
+
+Extra Credit:
+Yes, I did add image of two dice rolled and some drawing and creative design.
